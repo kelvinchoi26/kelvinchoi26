@@ -1,5 +1,3 @@
-### iOS 앱개발 공부하고 있는 최형민입니다😈
-
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
 </p>
