@@ -1,7 +1,7 @@
 <div align="center">
   
-###  Hyungmin Choi
-Majoring in **Global Commerce / Computer Science**.<br> Currently studying **iOS development**. <br>
+### 🍎 Hyungmin Choi 🍎
+Majored in **Global Commerce / Computer Science**.<br> Currently studying **iOS development**. <br>
 
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
