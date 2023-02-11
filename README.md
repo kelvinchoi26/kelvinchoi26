@@ -12,6 +12,6 @@ Majored in **Global Commerce / Computer Science**<br> Currently studying **iOS d
 **UIKit, MVC/MVVM, AutoLayout(Storyboard/Code), RxSwift**
 
 ### 📖 Portfolio 📖
-⭐️[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://organized-elderberry-847.notion.site/Hyungmin-Choi-9f148718e3264f65a03a377eb6d9bcaa)⭐️
+⭐️**[ Notion Link]**(https://organized-elderberry-847.notion.site/Hyungmin-Choi-9f148718e3264f65a03a377eb6d9bcaa)⭐️
 
 </div>
