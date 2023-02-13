@@ -1,7 +1,7 @@
 <div align="center">
   
 ###  Hyungmin Choi / 최형민
-**Global Commerce / Computer Science**<br> Currently studying **iOS development**<br>
+Majored in **Global Commerce / Computer Science**<br> Currently studying **iOS development**<br>
 
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
