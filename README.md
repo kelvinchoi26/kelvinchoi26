@@ -1,7 +1,7 @@
 <div align="center">
   
 ###  Hyungmin Choi / 최형민
-Majored in **Global Commerce / Computer Science (Yonsei University)**<br> Developing **Flutter Mobile Apps** in **InBody(Seoul, South Korea)**<br>
+Majored in **Global Commerce / Computer Science (Yonsei University)**<br> Developing **Flutter Mobile Apps** in **InBody (Seoul, South Korea)**<br>
 
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
